@@ -1,7 +1,7 @@
-package cz.gdg.preparation;
+package cz.gdg.hk;
 
-import cz.gdg.preparation.AddressBookProto.AddressBook;
-import cz.gdg.preparation.AddressBookProto.Person;
+import cz.gdg.hk.AddressBookProto.AddressBook;
+import cz.gdg.hk.AddressBookProto.Person;
 
 import java.io.*;
 
